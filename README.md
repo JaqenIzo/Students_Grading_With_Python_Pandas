@@ -1,0 +1,1 @@
+Using the datasets in the **Data** folder I created a simple system to grade students . This is just a beginner's Project to familiarize myself with **Pandas**. Corrections and Suggestions highly welcomed
